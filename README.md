@@ -18,7 +18,7 @@ This was my first project with Django—a simple web application that provides b
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/text-utility-app](https://github.com/ishan-xy/text-utility).git
+   git clone https://github.com/ishan-xy/text-utility.git
    cd text-utility
    ```
 3. Run the development server:
