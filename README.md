@@ -8,6 +8,9 @@ This was my first project with Django—a simple web application that provides b
 - **Remove New Lines**: Eliminates all unnecessary line breaks.
 - **Remove Extra Spaces**: Trims excessive spaces between words.
 - **Character Counter**: Counts the number of characters in the text.
+## Screenshots
+![Screenshot 2025-03-09 025050](https://github.com/user-attachments/assets/79072889-eb8c-4f0f-8d18-32c2577b5b94)
+![Screenshot 2025-03-09 025101](https://github.com/user-attachments/assets/b1fc90a0-cfe7-4d1a-ad53-4c086e9d638a)
 
 ## Getting Started
 
